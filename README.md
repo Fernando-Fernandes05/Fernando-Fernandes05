@@ -1,6 +1,8 @@
 👀 About Me:
 
-Innovative tech mind with 1 year of experience working as a software engineer. Capable of working with a variety of technology and software solutions, I have experience with ReactJs, NodeJs, PHP, C#, TypeScript, Python, MongoDB among other technologies.
+I'm Fernando, I'm 17 years old, currently studying systems development technician at Etec.
+
+Innovative technological mind with 1 year of experience. Capable of working with a variety of technology and software solutions, I have experience with ReactJs, NodeJs, PHP, C#, TypeScript, Python, MongoDB among other technologies.
 
 With a strong focus on continuous learning and development, I am constantly refining my skills and staying abreast of industry trends to ensure that I can deliver the best possible solutions to my clients.
 
