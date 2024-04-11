@@ -2,7 +2,7 @@
 
 I'm Fernando, I'm 18 years old, currently studying systems development technician at Etec.
 
-Innovative technological mind with 1 year of experience. Capable of working with a variety of technology and software solutions, I have experience with ReactJs, NodeJs, PHP, C#, TypeScript, Python, MongoDB among other technologies.
+Innovative technological mind with 2 year of experience. Capable of working with a variety of technology and software solutions, I have experience with ReactJs, NodeJs, PHP, C#, TypeScript, Python, MongoDB among other technologies.
 
 With a strong focus on continuous learning and development, I am constantly refining my skills and staying abreast of industry trends to ensure that I can deliver the best possible solutions to my clients.
 
