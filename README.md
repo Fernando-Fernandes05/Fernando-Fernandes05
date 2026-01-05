@@ -1,6 +1,6 @@
 👀 About Me:
 
-I'm Fernando, I'm 19 years old, currently studying systems development technician at Etec.
+I'm Fernando, I'm 20 years old, currently studying systems development technician at Etec.
 
 Innovative technological mind with 2 year of experience. Capable of working with a variety of technology and software solutions, I have experience with ReactJs, NodeJs, PHP, C#, TypeScript, Python, MongoDB among other technologies.
 
